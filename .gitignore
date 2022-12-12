@@ -1,0 +1,19 @@
+*.vcxproj*
+*.sln
+.vs
+x64
+x86
+*.ilk
+*.pdb
+*.obj
+.vscode
+.ipynb_checkpoints
+python**
+main
+!main/
+.Rhistory
+node_modules
+*.exe
+
+# Local Netlify folder
+.netlify

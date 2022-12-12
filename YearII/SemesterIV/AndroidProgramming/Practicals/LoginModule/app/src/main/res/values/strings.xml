@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginModule</string>
+    <string name="welcome">Welcome</string>
+    <string name="log_out">Log Out</string>
+    <string name="password">Password</string>
+    <string name="e_mail_id">E-mail ID</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+</resources>
